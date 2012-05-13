@@ -1,9 +1,12 @@
 OpenHatch X: Boulder
 =============
 
-This is a meetup group designed to break down the barriers for people to contribute to open source projects. Many 
-people would like to contribute, but they're not sure how. We will be taking a very hands-on approach with pair
-programming and open direction. This group is open to developers of all skill levels.
+This is a meetup group designed to break down the barriers for people to contribute to open source projects.
+Many people would like to contribute, but they're not sure how. We will be taking a very hands-on approach
+with pair programming and open direction. This group is open to developers of all skill levels.
+
+See [Projects.md](https://github.com/OpenHatchX/BoulderMeetup/blob/master/Projects.md) for a list of projects
+that are available to be worked on.
 
 Needs
 -----
