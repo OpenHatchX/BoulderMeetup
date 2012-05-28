@@ -19,4 +19,10 @@ NLog.MongoDB
  * C# Adapter for NLog logging framework to log to MongoDB
  * https://github.com/Logrythmik/NLog.MongoDB
 
+Ruby On Rails
+---------------
+ 
+ * The popular Ruby web framework
+ * https://github.com/rails/rails
+
 
